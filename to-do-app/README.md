@@ -1,8 +1,40 @@
-# React + Vite
+# To Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is Basic To Do List Web app. In which you can add your task in the list and when your task has been completed and mark as completed and delete the task that is completed.
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+
+## Overview
+
+### Screenshot
+
+![Desktop Screen](/public/to-do-app-design.png)
+
+### Links
+
+- GitHub Repo URL: [Basic Quiz App Repo](https://github.com/faisgit/React-Projects/tree/main/to-do-app)
+- Live Site URL: [Basic Quiz Live Url](https://react-projects-pdor.vercel.app/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://react.dev/) - JS library
+- [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
+- [Material Tailwind](https://www.material-tailwind.com/) - React framework
+
+### What I learned
+
+From this, Project How to use React Js and how to use ustate hook . I also learn how to use Tailwind CSS in any Project with Material Tailwind
