@@ -15,13 +15,13 @@ This is a Basic Quiz App in which we use local json Data for making this app.If 
 
 ### Screenshot
 
-![Desktop Screen](./assets/desktop-screen.png)
-![Desktop Screen](./assets/mobile-screen.png)
+![Desktop Screen](./src/assets/desktop-screen.png)
+![Desktop Screen](./src/assets/mobile-screen.png)
 
 ### Links
 
 - GitHub Repo URL: [Basic Quiz App Repo](https://github.com/faisgit/React-Projects/tree/main/basic-quiz-app)
-- Live Site URL: [Basic Quiz Live Url](https://your-live-site-url.com)
+- Live Site URL: [Basic Quiz Live Url](https://basic-quiz-app-one.vercel.app/)
 
 ## My process
 
