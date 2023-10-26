@@ -15,7 +15,7 @@ This is Basic To Do List Web app. In which you can add your task in the list and
 
 ### Screenshot
 
-![Desktop Screen](/public/to-do-app-design.png)
+![Desktop Screen](./assets/to-do-app-design.png)
 
 ### Links
 
